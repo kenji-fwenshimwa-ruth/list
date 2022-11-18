@@ -1,0 +1,27 @@
+
+
+
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+    color: black;
+    
+}
+.main {
+    
+    border: dashed 3px black;   
+    width: 30%;
+    padding: 20px;
+    margin: auto;
+}
+
+#head {
+    font-family: inherit;
+    text-transform: uppercase;
+    color: inherit;
+    text-align: center;
+}
+.list{
+    text-transform: capitalize;
+}
